@@ -1,5 +1,6 @@
 # UK Crime Rate Analysis
 
+<img width="686" height="470" alt="image" src="https://github.com/user-attachments/assets/0d6d26b8-f851-4393-9a14-7b258bbd65e7" />
 
 
 ## 📌 Project Overview
