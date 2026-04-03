@@ -1,7 +1,8 @@
 # UK Crime Rate Analysis
 
 
-
+![UK Crime Rate Overall Trend](<img width="677" height="478" alt="UK Visualization" src="https://github.com/user-attachments/assets/0475b7ca-88e2-4ef5-a3bd-6246187d7d92" />
+)
 
 ## 📌 Project Overview
 
