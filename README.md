@@ -50,7 +50,6 @@ Two classification models were trained and evaluated:
 **⚠️ Note on Model Performance:**
 The model achieved very high accuracy (1.00), which suggests possible overfitting or data leakage (likely due to the derivation of the target variable from the input features). Further validation using cross-validation, feature engineering adjustments, and unseen datasets is required to confirm true generalization performance.
 
-Despite this, the **DecisionTreeClassifier** was determined to be the best-performing model for classifying crime levels based on historical patterns.
 
 ## 🛠️ Technologies & Libraries Used
 
@@ -60,7 +59,7 @@ Despite this, the **DecisionTreeClassifier** was determined to be the best-perfo
   * **Seaborn & Matplotlib** (Data visualization)
   * **Scikit-Learn** (Machine learning algorithms and metrics)
 
-## 🚀 Recommendations
+## 🚀 Real-World Impact
 
 Based on the analysis, the following actions are recommended:
 
@@ -74,6 +73,16 @@ Based on the analysis, the following actions are recommended:
   * `UK_CrimeRate_Analysis.ipynb`: The Jupyter Notebook containing the data scanning, preprocessing, exploratory data analysis, and model training code.
   * `reccrime-offence-ref - Reference_Table_-_Offence.csv`: A reference table mapping specific offense codes to their respective descriptions, groups, and subgroups.
   * `LICENSE`: Details the licensing information for the code.
+
+## 🔮 Future Work & Improvements
+
+To enhance this project and make it production-ready, the following improvements are proposed:
+
+- **Time-Series Forecasting**: Implement models such as ARIMA or Prophet to predict future crime trends rather than relying solely on historical classification.
+- **Eliminate Data Leakage**: Redesign the target variable to ensure it is independent of input features and reflects real-world prediction scenarios.
+- **Incorporate External Data**: Integrate socio-economic and demographic factors (e.g., population density, unemployment rates) to improve model performance and realism.
+- **Geospatial Analysis**: Introduce crime heatmaps and regional clustering to identify high-risk zones more effectively.
+- **Model Deployment**: Develop an interactive dashboard (e.g., using Streamlit) to allow users explore crime trends and predictions dynamically.
 
 ## 📜 License
 
