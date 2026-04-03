@@ -30,6 +30,8 @@ The core objectives include:
   * **Yearly Crime Rate**: There was a steady increase in offenses from 2012/13 to 2016/17, followed by a sharper increase from 2016/17 to 2018/19. A slight decrease occurred in 2020/21, which could be attributed to policy changes or data inconsistency.
   * **Offense Rate by Force**: The Metropolitan Police force recorded the highest number of offenses, peaking at 906,112 in 2019/20. The London, City Of force had the least, with its highest at 8,695.0 in 2019/20.
   * **Types of Offences**: Theft offenses have the highest occurrence, followed by "Violence against the person" and "Fraud Offenses".
+  * <img width="733" height="722" alt="image" src="https://github.com/user-attachments/assets/037fd378-08b8-4237-b8dd-1bf976410085" />
+
   * **Fraudulent Related Forces**: There are dedicated forces specifically for fraud-related offenses. This indicates that more efforts are being put in place to handle the high rate of fraud-related activities.
   * **Offence Subgroups**: For "Violence against person" crimes, violence without injury is more common than violence with injury. Homicide has minimal cases, making it the least practiced offense for this category. Business property theft is the least practiced form of theft.
 
